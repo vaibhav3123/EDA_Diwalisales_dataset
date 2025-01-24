@@ -12,5 +12,6 @@ Top Products: Food, Clothing, and Electronics were the most popular categories.
 Data cleaning and transformation
 Exploratory Data Analysis (EDA): Grouping, aggregating, and analyzing key trends
 Data Visualization using Seaborn and Matplotlib
+
 📈 Conclusion:
 This analysis highlights the importance of targeted marketing strategies. By focusing on key customer segments, businesses can enhance their Diwali campaigns and drive higher sales.
