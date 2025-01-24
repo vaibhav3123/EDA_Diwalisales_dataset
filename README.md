@@ -1,3 +1,5 @@
+#Hi there, 
+
 I’m excited to share a recent project where I delved into Exploratory Data Analysis (EDA) on a Diwali Sales dataset. This experience not only strengthened my skills in Python, Pandas, Seaborn, and Matplotlib, but also deepened my understanding of data analysis and storytelling through visuals.
 
 🔑 Key Findings:
